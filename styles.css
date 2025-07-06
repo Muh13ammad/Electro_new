@@ -54,7 +54,7 @@ nav a:hover {
 .hero {
   position: relative;
   height: 60vh;
-  background: url('https://images.unsplash.com/photo-1604080511766-1b0b572d2704?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') center / cover no-repeat;
+  background: url('images/hero.jpg') center / cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
